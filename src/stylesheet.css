@@ -1,0 +1,25 @@
+/* Estilo do corpo da página */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color: lightgrey;
+  }
+  
+  /* Estilo do container do canvas */
+  #canvas-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 600px;
+    height: 400px;
+    border: 1px solid black;
+  }
+  
+  /* Estilo do canvas */
+  canvas {
+    background-color: white;
+  }
+  
