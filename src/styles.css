@@ -5,6 +5,7 @@ body {
     align-items: center;
     height: 100vh;
     margin: 0;
+    padding: 0cm;
     background-color: lightgrey;
   }
   
@@ -13,7 +14,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 600px;
+    width: 760px;
     height: 400px;
     border: 1px solid black;
   }
